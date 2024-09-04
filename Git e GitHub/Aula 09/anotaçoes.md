@@ -3,8 +3,8 @@ No terminal
 
 git status = mostra o status 
 git init = inicia um repositorio local git   
-git commit -m "comentario"
-git add *
+git commit -m "comentario" para entender oq fez na alteraçao
+git add * = adicionar tudo
 
 Mapa mental de programaçao: https://roadmap.sh/frontend
 
